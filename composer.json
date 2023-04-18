@@ -4,7 +4,7 @@
         "twig/twig": "^1.28",
         "milo/github-api": "^1.4",
         "slim/slim": "4.0.0",
-        "slim/psr7": "^0.4.0"
+        "slim/psr7": "^1.6.1"
     },
     "require-dev": {
         "phpunit/phpunit": "5.4.*"
